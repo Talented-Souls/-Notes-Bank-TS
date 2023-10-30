@@ -1,4 +1,7 @@
-# AKTU Notes by Talented Souls
+<p align="center"> 
+<img src="https://github.com/Talented-Souls/Notes-Bank-TS/assets/48208274/ce56b8dd-a098-4df2-aca7-2241a3e1f01c" alt="image" width="200" height="auto" ></p>
+
+<h1 align="center">AKTU Notes by Talented Souls</h1>
 
 This repository contains notes for all 8 semesters that are required for AKTU examination. The notes have been compiled by the Talented Souls community and are meant to be a helpful resource for students.
 
